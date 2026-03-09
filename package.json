@@ -1,0 +1,11 @@
+{
+  "name": "simple-cicd",
+  "version": "1.0.0",
+  "description": "Simple HTML + TypeScript sum example",
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
