@@ -73,7 +73,7 @@ describe("divide", () => {
   });
 
   it("throws error when dividing by zero", () => {
-    expect(() => window.divide(5, 0)).toThrow('Cannot divide by zero');
+    expect(() => window.divide(5, 0)).toThrow('No puedes dividir entre cero');
   });
 });
 

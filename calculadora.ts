@@ -25,7 +25,7 @@ function multiply(a: number, b: number): number {
  */
 function divide(a: number, b: number): number {
   if (b === 0) {
-    throw new Error('Cannot divide by zero');
+    throw new Error('No puedes dividir entre cero');
   }
   return a / b;
 }
