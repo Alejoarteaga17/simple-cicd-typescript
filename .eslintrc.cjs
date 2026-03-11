@@ -11,7 +11,7 @@ module.exports = {
     "eslint:recommended",
     "plugin:@typescript-eslint/recommended",
   ],
-  ignorePatterns: ["node_modules/", "sum.js"],
+  ignorePatterns: ["node_modules/", "calculadora.js"],
   rules: {
     "@typescript-eslint/no-non-null-assertion": "off",
   },
